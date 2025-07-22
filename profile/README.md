@@ -12,7 +12,7 @@ From The Littlest of Mini Buses to the Airbus Beluga. If it gets someone somewhe
 #### ![ASTRO](/icons/astro.png) ASTRO
 #### ![CSS](/icons/css.png) CSS
 #### ![JS](/icons/js.png) JavaScript
-#### ![PY](/icons/python.png) Python
+#### ![PY](/icons/py.png) Python
 #### ![FLUTTER](/icons/flutter.png) Flutter
 #### ![DART](/icons/dart.png) Dart
 #### ![SH](/icons/bash.png) Bash Script
