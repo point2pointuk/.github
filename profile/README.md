@@ -1,10 +1,12 @@
 #### ![Wordmark with Logo](https://newp2p.pages.dev/assets/branding/SVG/Full%20Colour%20Wordmark%20with%20Logo.svg)
-## Hi There! We're Point 2 Point.
-A Software Development Firm in ☕England☕(_country of the tea_).
+## Hi there! We're Point 2 Point.
+A software development firm in ☕England☕(_country of the tea_).
 
 ## What Do We Do?
-Apps, Games, Websites, etc. All About Travel.
-From The Littlest of Mini Buses to the Airbus Beluga. If it gets someone somewhere, we like it. :)
+Apps, games, eebsites, etc. All about travel and transport. From the smallest of minibuses to the Airbus Beluga. If it gets someone somewhere, we like it. :)
+
+## Contact Us
+hello@point2point.is-a.dev
 
 ## Computer Lingo
 ### Coding Languages
